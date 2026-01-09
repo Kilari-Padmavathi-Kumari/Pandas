@@ -7,3 +7,9 @@ data = [
 
 df = pd.DataFrame(data, columns=['Name', 'Age', 'City'])
 print(df)
+
+print(df.loc[0])
+print(df.loc[1])
+
+
+

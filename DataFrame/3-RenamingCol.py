@@ -15,3 +15,5 @@ df.rename(columns={"Department": "Dept"}, inplace=True)
 
 print("\nAfter rename:")
 print(df)
+
+

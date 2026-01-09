@@ -11,6 +11,6 @@ df.name="calories"
 print(df)
 
 print(df.loc[3])
-print(df.loc[[1,4,5]])
+print(df.iloc[[1,4,5]])
 
 
